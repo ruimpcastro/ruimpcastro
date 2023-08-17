@@ -1,5 +1,5 @@
 # 🌕 About Me:
-🚀 I'm currently building awesome UI for web remotely @ Sublime Cipher.<br>👨‍💻 Looking to collaborate on making some great applications and also face new challenges.<br>🌱 I’m currently sharpening my programming skills with NextJS and ReactJS.<br>💬 Chat with me about anything that goes on your mind.<br>🧠 I'm an open-minded person that talks about everything.
+🚀 I'm currently building awesome UI for web remotely @ Sublime Cipher.<br>👨‍💻 Looking to collaborate on making some great applications and also face new challenges.<br>🌱 I’m currently sharpening my programming skills with NextJS and ReactJS.<br>💬 Chat with me about anything that goes on your mind.<br>🧠 I strongly believe in Kaizen. I always strive to be better at what I'm doing.
 
 
 ## 🌐 Socials:
