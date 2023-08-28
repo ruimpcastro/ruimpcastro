@@ -1,5 +1,5 @@
 # 🌕 About Me:
-🚀 I'm currently building awesome frontend apps for web remotely @ Sublime Cipher.<br>
+🚀 I'm currently building awesome frontend apps for web remotely.<br>
 👨‍💻 Looking to collaborate on making some great applications and also face new challenges.<br>
 🌱 I’m a growing developer using NextJS and ReactJS.<br>
 💬 If you have any questions or if you want to be in contact with me just send me a message.<br>
