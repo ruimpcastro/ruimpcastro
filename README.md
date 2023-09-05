@@ -1,9 +1,9 @@
 # 🌕 About Me:
-🚀 I'm currently building awesome frontend apps for web remotely @ COCUS Portugal.
-👨‍💻 Looking to collaborate on making some great applications and also face new challenges.
-🌱 My objective is to improve the quality of my code and hone my knowledge and skills.
-💬 If you have any questions or if you want to be in contact with me just send me a message.
-🧠 I strongly believe in Kaizen. I always strive to be better at what I'm doing.
+🚀 I'm currently building awesome frontend apps for web remotely @ COCUS Portugal.<br>
+👨‍💻 Looking to collaborate on making some great applications and also face new challenges.<br>
+🌱 My objective is to improve the quality of my code and hone my knowledge and skills.<br>
+💬 If you have any questions or if you want to be in contact with me just send me a message.<br>
+🧠 I strongly believe in Kaizen. I always strive to be better at what I'm doing.<br>
 
 
 ## 🌐 Socials:
