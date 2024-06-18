@@ -1,5 +1,5 @@
 # 🌕 About Me:
-🚀 I'm currently building awesome frontend apps for web remotely @ COCUS Portugal.<br>
+🚀 I'm currently building awesome frontend apps for web remotely @TUI Tech PT.<br>
 👨‍💻 Looking to collaborate on making some great applications and also face new challenges.<br>
 🌱 My objective is to improve the quality of my code and hone my knowledge and skills.<br>
 💬 If you have any questions or if you want to be in contact with me just send me a message.<br>
